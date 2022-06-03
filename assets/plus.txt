@@ -1,0 +1,6 @@
+paleta de colores:
+
+#111010 (Negro)
+#d0ccd1 (gris)
+#ff0303 (rojo neon)
+#ffffff (blanco)
