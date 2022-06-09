@@ -1,18 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-*{
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style: none;
-}
-body{
-    background-color: #d0ccd1;
-}
-a, li{
-    font-family: 'Roboto',sans-serif;
-    color: #ffff;
-}
 .logo-header img{
     width: 50px;
 }
